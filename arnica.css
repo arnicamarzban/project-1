@@ -1,0 +1,50 @@
+.firsthead {
+    color:rgb(255, 0, 242);
+    text-align: center;
+    font-size: 100px;
+    font-family:garamond;
+}
+
+.secondhead {
+    color:rgb(255, 100, 242);
+    text-align: center;
+    font-size:90px;
+    font-family:garamond;
+}
+
+.firstp {
+    color:rgb(255,180,242);
+    text-align: center;
+    font-size: 25px;
+    font-family:garamond;
+}
+.secondp {
+    color: rgb(255,240,242);
+    text-align: center;
+    font-size: 25px;
+    font-family: garamond;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.thirdp {
+    color:blue;
+    text-align: center;
+    font-size: 45px;
+    font-family: garamond;
+}
+
+.fourthp{
+    color:blueviolet;
+    
+}
+body {
+    background-color: black;
+  }
+  
+  
+
